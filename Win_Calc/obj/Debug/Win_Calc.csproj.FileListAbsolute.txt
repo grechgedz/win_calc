@@ -1,0 +1,10 @@
+c:\users\dunkan\source\repos\Win_Calc\Win_Calc\bin\Debug\Win_Calc.exe.config
+c:\users\dunkan\source\repos\Win_Calc\Win_Calc\bin\Debug\Win_Calc.exe
+c:\users\dunkan\source\repos\Win_Calc\Win_Calc\bin\Debug\Win_Calc.pdb
+c:\users\dunkan\source\repos\Win_Calc\Win_Calc\obj\Debug\Win_Calc.csprojResolveAssemblyReference.cache
+c:\users\dunkan\source\repos\Win_Calc\Win_Calc\obj\Debug\Win_Calc.Form1.resources
+c:\users\dunkan\source\repos\Win_Calc\Win_Calc\obj\Debug\Win_Calc.Properties.Resources.resources
+c:\users\dunkan\source\repos\Win_Calc\Win_Calc\obj\Debug\Win_Calc.csproj.GenerateResource.Cache
+c:\users\dunkan\source\repos\Win_Calc\Win_Calc\obj\Debug\Win_Calc.csproj.CoreCompileInputs.cache
+c:\users\dunkan\source\repos\Win_Calc\Win_Calc\obj\Debug\Win_Calc.exe
+c:\users\dunkan\source\repos\Win_Calc\Win_Calc\obj\Debug\Win_Calc.pdb
